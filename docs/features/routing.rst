@@ -1,7 +1,7 @@
 Routing
 =======
 
-Ocelot's primary functionality is to take incomeing http requests and forward them on
+Ocelot's primary functionality is to take incoming http requests and forward them on
 to a downstream service. At the moment in the form of another http request (in the future
 this could be any transport mechanism). 
 
